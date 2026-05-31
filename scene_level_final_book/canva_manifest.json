@@ -1,0 +1,566 @@
+{
+  "book_title": "Maya and the Tiny Bridge",
+  "layout": {
+    "spread_width_px": 3400,
+    "spread_height_px": 2200,
+    "spread_count": 3,
+    "source_story_pages": 5,
+    "source_scenes": 15
+  },
+  "pdf": "projects/maya_bridge_demo/output/canva_package/maya_and_the_tiny_bridge_canva_import_spreads.pdf",
+  "spreads": [
+    {
+      "spread": 1,
+      "mode": "paired_single_pages",
+      "png": "projects/maya_bridge_demo/output/canva_package/spread_pngs/spread_01.png",
+      "left_page": 1,
+      "left_title": "The Rug River",
+      "left_story_text": "Nova beeped beside the blue rug river, beep-beep, small and slow. Maya tapped her pencil twice: I know a bridge can help you go.",
+      "right_page": 2,
+      "right_title": "Measure First",
+      "right_story_text": "Engineer Alex smiled and said, First measure, then we play. Maya marked the blueprint lines and planned the bridge the clever way.",
+      "layout_note": "Problem setup and planning table."
+    },
+    {
+      "spread": 2,
+      "mode": "comic_and_macro_pair",
+      "png": "projects/maya_bridge_demo/output/canva_package/spread_pngs/spread_02.png",
+      "left_page": 3,
+      "left_title": "The Wobble Test",
+      "left_story_text": "Click went the blocks, then clack, then flop! The bridge leaned left and right. Maya grinned and tried again: Almost means I'm learning right.",
+      "right_page": 4,
+      "right_title": "The Triangle Trick",
+      "right_story_text": "Alex drew three sturdy sides and Maya's eyes grew wide. Triangles catch the wobbles fast and tuck the strength inside.",
+      "layout_note": "Funny wobble test and triangle principle."
+    },
+    {
+      "spread": 3,
+      "mode": "single_page_finale_with_review_panel",
+      "png": "projects/maya_bridge_demo/output/canva_package/spread_pngs/spread_03.png",
+      "left_page": 5,
+      "left_title": "Across!",
+      "left_story_text": "Nova marched across the bridge, beep-boop, bright and bold. Maya held her blueprint high: I built it from my plan!",
+      "right_page": null,
+      "right_title": null,
+      "right_story_text": null,
+      "layout_note": "Final bridge success plus Canva review space."
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": "p001_s01",
+      "page": 1,
+      "scene_index": 1,
+      "title": "The Rug River - Nova beeped beside the blue",
+      "story_slice": "Nova beeped beside the blue rug river, beep-beep, small and slow.",
+      "location": "cozy playroom-workshop floor with a blue rug acting like a pretend river",
+      "characters": [
+        "fixed_robot"
+      ],
+      "objects": [
+        "workbench",
+        "logic_kit"
+      ],
+      "beat": "Maya notices a playful engineering problem and decides to help Nova cross. Scene slice: Nova beeped beside the blue rug river, beep-beep, small and slow.",
+      "camera": "establishing shot for the page beat; base camera: low child-height wide shot from Nova's side of the rug, making the tiny gap feel like a grand river",
+      "composition_role": "opening scene",
+      "reference_goals": [
+        "find camera references for opening scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Warm lamp light, blue rug river, orange vest, teal robot eyes.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 3 on page 001; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p001_s02",
+      "page": 1,
+      "scene_index": 2,
+      "title": "The Rug River - Maya tapped her pencil twice",
+      "story_slice": "Maya tapped her pencil twice",
+      "location": "cozy playroom-workshop floor with a blue rug acting like a pretend river",
+      "characters": [
+        "maya"
+      ],
+      "objects": [
+        "workbench",
+        "logic_kit"
+      ],
+      "beat": "Maya notices a playful engineering problem and decides to help Nova cross. Scene slice: Maya tapped her pencil twice",
+      "camera": "closer action/detail shot between opener and outcome; base camera: low child-height wide shot from Nova's side of the rug, making the tiny gap feel like a grand river",
+      "composition_role": "action/detail scene",
+      "reference_goals": [
+        "find camera references for action/detail scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Warm lamp light, blue rug river, orange vest, teal robot eyes.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 3 on page 001; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p001_s03",
+      "page": 1,
+      "scene_index": 3,
+      "title": "The Rug River - I know a bridge can",
+      "story_slice": "I know a bridge can help you go.",
+      "location": "cozy playroom-workshop floor with a blue rug acting like a pretend river",
+      "characters": [
+        "maya",
+        "fixed_robot"
+      ],
+      "objects": [
+        "workbench",
+        "logic_kit"
+      ],
+      "beat": "Maya notices a playful engineering problem and decides to help Nova cross. Scene slice: I know a bridge can help you go.",
+      "camera": "closing reaction or outcome shot, visibly different from the opener; base camera: low child-height wide shot from Nova's side of the rug, making the tiny gap feel like a grand river",
+      "composition_role": "outcome scene",
+      "reference_goals": [
+        "find camera references for outcome scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Warm lamp light, blue rug river, orange vest, teal robot eyes.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 3 of 3 on page 001; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p002_s01",
+      "page": 2,
+      "scene_index": 1,
+      "title": "Measure First - Engineer Alex smiled and said",
+      "story_slice": "Engineer Alex smiled and said, First measure, then we play.",
+      "location": "overhead workbench planning area beside the blue rug river",
+      "characters": [
+        "alex_adult"
+      ],
+      "objects": [
+        "workbench"
+      ],
+      "beat": "Alex guides Maya to measure and plan before building. Scene slice: Engineer Alex smiled and said, First measure, then we play.",
+      "camera": "object-focused establishing insert; top-down or macro detail; base camera: overhead table shot with Maya's hands, Alex's caliper, and the first triangle bridge sketch",
+      "composition_role": "object insert",
+      "reference_goals": [
+        "find camera references for object insert",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Cream paper, blueprint blue, brass caliper, soft amber table light.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 3 on page 002; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p002_s02",
+      "page": 2,
+      "scene_index": 2,
+      "title": "Measure First - Maya marked the blueprint lines",
+      "story_slice": "Maya marked the blueprint lines",
+      "location": "overhead workbench planning area beside the blue rug river",
+      "characters": [
+        "maya"
+      ],
+      "objects": [
+        "blueprint"
+      ],
+      "beat": "Alex guides Maya to measure and plan before building. Scene slice: Maya marked the blueprint lines",
+      "camera": "character reaction or usage angle tied to the object; base camera: overhead table shot with Maya's hands, Alex's caliper, and the first triangle bridge sketch",
+      "composition_role": "object-use reaction",
+      "reference_goals": [
+        "find camera references for object-use reaction",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Cream paper, blueprint blue, brass caliper, soft amber table light.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 3 on page 002; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p002_s03",
+      "page": 2,
+      "scene_index": 3,
+      "title": "Measure First - planned the bridge the clever",
+      "story_slice": "planned the bridge the clever way.",
+      "location": "overhead workbench planning area beside the blue rug river",
+      "characters": [
+        "maya",
+        "alex_adult"
+      ],
+      "objects": [
+        "blueprint"
+      ],
+      "beat": "Alex guides Maya to measure and plan before building. Scene slice: planned the bridge the clever way.",
+      "camera": "character reaction or usage angle tied to the object; base camera: overhead table shot with Maya's hands, Alex's caliper, and the first triangle bridge sketch",
+      "composition_role": "object-use reaction",
+      "reference_goals": [
+        "find camera references for object-use reaction",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Cream paper, blueprint blue, brass caliper, soft amber table light.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 3 of 3 on page 002; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p003_s01",
+      "page": 3,
+      "scene_index": 1,
+      "title": "The Wobble Test - Click went the blocks then",
+      "story_slice": "Click went the blocks, then clack, then flop!",
+      "location": "workshop floor test zone",
+      "characters": [
+        "fixed_robot"
+      ],
+      "objects": [
+        "logic_kit",
+        "blueprint"
+      ],
+      "beat": "The first bridge fails in a funny, useful way. Scene slice: Click went the blocks, then clack, then flop!",
+      "camera": "comic panel 1 of 4; keep a distinct beat within this sequence; base camera: three comic panels: build, wobble, gentle flop with Nova safe and surprised",
+      "composition_role": "comic panel 1",
+      "reference_goals": [
+        "find camera references for comic panel 1",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Energetic motion lines, playful sound words, no scary crash.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 4 on page 003; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p003_s02",
+      "page": 3,
+      "scene_index": 2,
+      "title": "The Wobble Test - The bridge leaned left and",
+      "story_slice": "The bridge leaned left and right.",
+      "location": "workshop floor test zone",
+      "characters": [
+        "fixed_robot"
+      ],
+      "objects": [
+        "blueprint"
+      ],
+      "beat": "The first bridge fails in a funny, useful way. Scene slice: The bridge leaned left and right.",
+      "camera": "comic panel 2 of 4; keep a distinct beat within this sequence; base camera: three comic panels: build, wobble, gentle flop with Nova safe and surprised",
+      "composition_role": "comic panel 2",
+      "reference_goals": [
+        "find camera references for comic panel 2",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Energetic motion lines, playful sound words, no scary crash.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 4 on page 003; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p003_s03",
+      "page": 3,
+      "scene_index": 3,
+      "title": "The Wobble Test - Maya grinned and tried again",
+      "story_slice": "Maya grinned and tried again",
+      "location": "workshop floor test zone",
+      "characters": [
+        "maya"
+      ],
+      "objects": [
+        "logic_kit",
+        "blueprint"
+      ],
+      "beat": "The first bridge fails in a funny, useful way. Scene slice: Maya grinned and tried again",
+      "camera": "comic panel 3 of 4; keep a distinct beat within this sequence; base camera: three comic panels: build, wobble, gentle flop with Nova safe and surprised",
+      "composition_role": "comic panel 3",
+      "reference_goals": [
+        "find camera references for comic panel 3",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Energetic motion lines, playful sound words, no scary crash.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 3 of 4 on page 003; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p003_s04",
+      "page": 3,
+      "scene_index": 4,
+      "title": "The Wobble Test - Almost means I'm learning right",
+      "story_slice": "Almost means I'm learning right.",
+      "location": "workshop floor test zone",
+      "characters": [
+        "maya",
+        "fixed_robot",
+        "alex_adult"
+      ],
+      "objects": [
+        "logic_kit",
+        "blueprint"
+      ],
+      "beat": "The first bridge fails in a funny, useful way. Scene slice: Almost means I'm learning right.",
+      "camera": "comic panel 4 of 4; keep a distinct beat within this sequence; base camera: three comic panels: build, wobble, gentle flop with Nova safe and surprised",
+      "composition_role": "comic panel 4",
+      "reference_goals": [
+        "find camera references for comic panel 4",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Energetic motion lines, playful sound words, no scary crash.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 4 of 4 on page 003; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p004_s01",
+      "page": 4,
+      "scene_index": 1,
+      "title": "The Triangle Trick - Alex drew three sturdy sides",
+      "story_slice": "Alex drew three sturdy sides and Maya's eyes grew wide.",
+      "location": "close-up of triangle truss bridge being rebuilt",
+      "characters": [
+        "maya",
+        "alex_adult"
+      ],
+      "objects": [
+        "blueprint",
+        "caliper",
+        "logic_kit"
+      ],
+      "beat": "Maya learns the engineering principle that triangular bracing adds strength. Scene slice: Alex drew three sturdy sides and Maya's eyes grew wide.",
+      "camera": "establishing shot for the page beat; base camera: dramatic macro close-up through a triangle frame, Maya's focused eye visible behind the structure",
+      "composition_role": "opening scene",
+      "reference_goals": [
+        "find camera references for opening scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Golden triangle pieces, blue blueprint shadows, bright focus highlight.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 2 on page 004; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p004_s02",
+      "page": 4,
+      "scene_index": 2,
+      "title": "The Triangle Trick - Triangles catch the wobbles fast",
+      "story_slice": "Triangles catch the wobbles fast and tuck the strength inside.",
+      "location": "close-up of triangle truss bridge being rebuilt",
+      "characters": [
+        "maya",
+        "alex_adult"
+      ],
+      "objects": [
+        "blueprint",
+        "caliper",
+        "logic_kit"
+      ],
+      "beat": "Maya learns the engineering principle that triangular bracing adds strength. Scene slice: Triangles catch the wobbles fast and tuck the strength inside.",
+      "camera": "closing reaction or outcome shot, visibly different from the opener; base camera: dramatic macro close-up through a triangle frame, Maya's focused eye visible behind the structure",
+      "composition_role": "outcome scene",
+      "reference_goals": [
+        "find camera references for outcome scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Golden triangle pieces, blue blueprint shadows, bright focus highlight.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 2 on page 004; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p005_s01",
+      "page": 5,
+      "scene_index": 1,
+      "title": "Across! - Nova marched across the bridge",
+      "story_slice": "Nova marched across the bridge, beep-boop, bright and bold.",
+      "location": "finished tiny bridge over the blue rug river",
+      "characters": [
+        "fixed_robot"
+      ],
+      "objects": [
+        "blueprint"
+      ],
+      "beat": "The bridge works and Maya feels proud of the engineering process. Scene slice: Nova marched across the bridge, beep-boop, bright and bold.",
+      "camera": "establishing shot for the page beat; base camera: celebratory wide hero shot from low angle, Nova crossing the bridge while Maya cheers",
+      "composition_role": "opening scene",
+      "reference_goals": [
+        "find camera references for opening scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Confetti-like workshop light, glowing teal robot eyes, satisfying final warmth.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 3 on page 005; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p005_s02",
+      "page": 5,
+      "scene_index": 2,
+      "title": "Across! - Maya held her blueprint high",
+      "story_slice": "Maya held her blueprint high",
+      "location": "finished tiny bridge over the blue rug river",
+      "characters": [
+        "maya"
+      ],
+      "objects": [
+        "blueprint"
+      ],
+      "beat": "The bridge works and Maya feels proud of the engineering process. Scene slice: Maya held her blueprint high",
+      "camera": "closer action/detail shot between opener and outcome; base camera: celebratory wide hero shot from low angle, Nova crossing the bridge while Maya cheers",
+      "composition_role": "action/detail scene",
+      "reference_goals": [
+        "find camera references for action/detail scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Confetti-like workshop light, glowing teal robot eyes, satisfying final warmth.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 3 on page 005; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p005_s03",
+      "page": 5,
+      "scene_index": 3,
+      "title": "Across! - I built it from my",
+      "story_slice": "I built it from my plan!",
+      "location": "finished tiny bridge over the blue rug river",
+      "characters": [
+        "maya",
+        "fixed_robot",
+        "alex_adult"
+      ],
+      "objects": [
+        "blueprint",
+        "logic_kit",
+        "workbench"
+      ],
+      "beat": "The bridge works and Maya feels proud of the engineering process. Scene slice: I built it from my plan!",
+      "camera": "closing reaction or outcome shot, visibly different from the opener; base camera: celebratory wide hero shot from low angle, Nova crossing the bridge while Maya cheers",
+      "composition_role": "outcome scene",
+      "reference_goals": [
+        "find camera references for outcome scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Confetti-like workshop light, glowing teal robot eyes, satisfying final warmth.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 3 of 3 on page 005; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    }
+  ]
+}

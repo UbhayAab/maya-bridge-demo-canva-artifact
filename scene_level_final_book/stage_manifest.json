@@ -1,0 +1,45 @@
+{
+  "book_title": "Maya and the Tiny Bridge",
+  "scene_count": 15,
+  "instruction": "Import each PDF into Canva as a separate production file. The final spread assembly remains in output/canva_package.",
+  "boards": [
+    {
+      "stage": "character_object_sheets",
+      "pdf": "output/canva_stage_files/character_object_sheets.pdf",
+      "page_count": 1,
+      "pngs": [
+        "output/canva_stage_files/character_object_sheets/character_object_sheets_01.png"
+      ]
+    },
+    {
+      "stage": "reference_camera_boards",
+      "pdf": "output/canva_stage_files/reference_camera_boards.pdf",
+      "page_count": 3,
+      "pngs": [
+        "output/canva_stage_files/reference_camera_boards/reference_camera_boards_01.png",
+        "output/canva_stage_files/reference_camera_boards/reference_camera_boards_02.png",
+        "output/canva_stage_files/reference_camera_boards/reference_camera_boards_03.png"
+      ]
+    },
+    {
+      "stage": "stencil_boards",
+      "pdf": "output/canva_stage_files/stencil_boards.pdf",
+      "page_count": 3,
+      "pngs": [
+        "output/canva_stage_files/stencil_boards/stencil_boards_01.png",
+        "output/canva_stage_files/stencil_boards/stencil_boards_02.png",
+        "output/canva_stage_files/stencil_boards/stencil_boards_03.png"
+      ]
+    },
+    {
+      "stage": "final_color_boards",
+      "pdf": "output/canva_stage_files/final_color_boards.pdf",
+      "page_count": 3,
+      "pngs": [
+        "output/canva_stage_files/final_color_boards/final_color_boards_01.png",
+        "output/canva_stage_files/final_color_boards/final_color_boards_02.png",
+        "output/canva_stage_files/final_color_boards/final_color_boards_03.png"
+      ]
+    }
+  ]
+}
