@@ -1,0 +1,32 @@
+{
+  "book_title": "Zoya and the Wind Garden",
+  "scene_count": 27,
+  "instruction": "Import these PDFs into Canva as separate scene-level production files. Each scene is a page.",
+  "boards": [
+    {
+      "stage": "01_detailed_scene_story",
+      "pdf": "canva_scene_files/01_detailed_scene_story.pdf",
+      "page_count": 27
+    },
+    {
+      "stage": "02_character_asset_sheets",
+      "pdf": "canva_scene_files/02_character_asset_sheets.pdf",
+      "page_count": 10
+    },
+    {
+      "stage": "03_scene_setup_camera_references",
+      "pdf": "canva_scene_files/03_scene_setup_camera_references.pdf",
+      "page_count": 27
+    },
+    {
+      "stage": "04_stencil_scenes",
+      "pdf": "canva_scene_files/04_stencil_scenes.pdf",
+      "page_count": 27
+    },
+    {
+      "stage": "05_final_color_scenes",
+      "pdf": "canva_scene_files/05_final_color_scenes.pdf",
+      "page_count": 27
+    }
+  ]
+}

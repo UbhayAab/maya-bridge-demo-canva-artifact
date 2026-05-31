@@ -1,0 +1,1045 @@
+{
+  "book_title": "Zoya and the Wind Garden",
+  "layout": {
+    "spread_width_px": 3400,
+    "spread_height_px": 2200,
+    "spread_count": 5,
+    "source_story_pages": 10,
+    "source_scenes": 27
+  },
+  "pdf": "projects/wind_garden_engineer_kid/output/canva_package/zoya_and_the_wind_garden_canva_import_spreads.pdf",
+  "spreads": [
+    {
+      "spread": 1,
+      "mode": "paired_single_pages",
+      "png": "projects/wind_garden_engineer_kid/output/canva_package/spread_pngs/spread_01.png",
+      "left_page": 1,
+      "left_title": "The Roof That Forgot the Wind",
+      "left_story_text": "High above the city, Zoya found the roof garden still and dim. Pico blinked beside the quiet fan and whispered, whirr? why not spin?",
+      "right_page": 2,
+      "right_title": "Engineer Ara Listens",
+      "right_story_text": "Engineer Ara knelt down low and held her hand into the air. She said, Wind is invisible, but clues are everywhere.",
+      "layout_note": "Problem discovery and mentor question."
+    },
+    {
+      "spread": 2,
+      "mode": "paired_single_pages",
+      "png": "projects/wind_garden_engineer_kid/output/canva_package/spread_pngs/spread_02.png",
+      "left_page": 3,
+      "left_title": "Measure the Invisible",
+      "left_story_text": "The orange cups went tik-tik-tik, then spun a faster ring. Zoya counted every turn and wrote what wind can bring.",
+      "right_page": 4,
+      "right_title": "Blueprint on the Bench",
+      "right_story_text": "Down in the workshop, gears went click and paper softly snapped. Ara drew three lines for strength while Zoya traced the map.",
+      "layout_note": "Measurement and blueprint planning."
+    },
+    {
+      "spread": 3,
+      "mode": "paired_single_pages",
+      "png": "projects/wind_garden_engineer_kid/output/canva_package/spread_pngs/spread_03.png",
+      "left_page": 5,
+      "left_title": "First Spin, Big Wobble",
+      "left_story_text": "Tap went the bolt, click went the brace, zoom went the little blade. Then wobble-wobble, rattle-rattle, the tower shook and swayed.",
+      "right_page": 6,
+      "right_title": "The Triangle Brace",
+      "right_story_text": "Ara smiled and tapped the page: A triangle holds things tight. Zoya built three sturdy sides and Pico blinked, that's right!",
+      "layout_note": "Funny failure and triangle solution."
+    },
+    {
+      "spread": 4,
+      "mode": "paired_single_pages",
+      "png": "projects/wind_garden_engineer_kid/output/canva_package/spread_pngs/spread_04.png",
+      "left_page": 7,
+      "left_title": "The Rooftop Test",
+      "left_story_text": "Back on the roof, the wind blew hush, then whoosh around the bend. Zoya turned the turbine gently and watched the cups ascend.",
+      "right_page": 8,
+      "right_title": "Stormy Almost",
+      "right_story_text": "A gust came WHOOSH across the rail; the little tower bent. Zoya breathed, checked every brace, and fixed the loose one sent.",
+      "layout_note": "Rooftop test and dramatic gust."
+    },
+    {
+      "spread": 5,
+      "mode": "paired_single_pages",
+      "png": "projects/wind_garden_engineer_kid/output/canva_package/spread_pngs/spread_05.png",
+      "left_page": 9,
+      "left_title": "Lights in the Leaves",
+      "left_story_text": "The turbine spun with a hum-hum-hum; the garden lights grew bright. Leaves shone green and Zoya laughed beneath the city light.",
+      "right_page": 10,
+      "right_title": "Zoya's Next Question",
+      "right_story_text": "Ara packed the red satchel, but Zoya held the plan. Could I build a rain catcher next? Ara grinned: Of course you can.",
+      "layout_note": "Garden success and next question."
+    }
+  ],
+  "scenes": [
+    {
+      "scene_id": "p001_s01",
+      "page": 1,
+      "scene_index": 1,
+      "title": "The Roof That Forgot the Wind - High above the city Zoya",
+      "story_slice": "High above the city, Zoya found the roof garden still and dim.",
+      "location": "rooftop wind garden with planters, railing, skyline, and a small silent wind turbine",
+      "characters": [
+        "zoya_kid"
+      ],
+      "objects": [
+        "roof_planters",
+        "solar_battery"
+      ],
+      "beat": "Zoya discovers a rooftop wind garden whose tiny turbine has stopped helping the lights. Scene slice: High above the city, Zoya found the roof garden still and dim.",
+      "camera": "establishing shot for the page beat; base camera: low child-height establishing shot from behind the planters, making the tiny turbine feel important against the skyline",
+      "composition_role": "opening scene",
+      "reference_goals": [
+        "find camera references for opening scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Warm sunset sky, teal robot eyes, orange vest, green planters, yellow battery light dim.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 3 on page 001; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p001_s02",
+      "page": 1,
+      "scene_index": 2,
+      "title": "The Roof That Forgot the Wind - Pico blinked beside the quiet",
+      "story_slice": "Pico blinked beside the quiet fan and whispered, whirr?",
+      "location": "rooftop wind garden with planters, railing, skyline, and a small silent wind turbine",
+      "characters": [
+        "pico_bot"
+      ],
+      "objects": [
+        "wind_turbine",
+        "roof_planters",
+        "solar_battery"
+      ],
+      "beat": "Zoya discovers a rooftop wind garden whose tiny turbine has stopped helping the lights. Scene slice: Pico blinked beside the quiet fan and whispered, whirr?",
+      "camera": "closer action/detail shot between opener and outcome; base camera: low child-height establishing shot from behind the planters, making the tiny turbine feel important against the skyline",
+      "composition_role": "action/detail scene",
+      "reference_goals": [
+        "find camera references for action/detail scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Warm sunset sky, teal robot eyes, orange vest, green planters, yellow battery light dim.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 3 on page 001; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p001_s03",
+      "page": 1,
+      "scene_index": 3,
+      "title": "The Roof That Forgot the Wind - why not spin",
+      "story_slice": "why not spin?",
+      "location": "rooftop wind garden with planters, railing, skyline, and a small silent wind turbine",
+      "characters": [
+        "zoya_kid",
+        "pico_bot"
+      ],
+      "objects": [
+        "wind_turbine",
+        "roof_planters",
+        "solar_battery"
+      ],
+      "beat": "Zoya discovers a rooftop wind garden whose tiny turbine has stopped helping the lights. Scene slice: why not spin?",
+      "camera": "closing reaction or outcome shot, visibly different from the opener; base camera: low child-height establishing shot from behind the planters, making the tiny turbine feel important against the skyline",
+      "composition_role": "outcome scene",
+      "reference_goals": [
+        "find camera references for outcome scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Warm sunset sky, teal robot eyes, orange vest, green planters, yellow battery light dim.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 3 of 3 on page 001; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p002_s01",
+      "page": 2,
+      "scene_index": 1,
+      "title": "Engineer Ara Listens - Engineer Ara knelt down low",
+      "story_slice": "Engineer Ara knelt down low",
+      "location": "rooftop wind garden work zone near the railing and wind turbine",
+      "characters": [
+        "engineer_ara"
+      ],
+      "objects": [
+        "wind_turbine",
+        "wind_meter",
+        "red_satchel"
+      ],
+      "beat": "Ara frames the engineering problem: measure what cannot be seen. Scene slice: Engineer Ara knelt down low",
+      "camera": "establishing shot for the page beat; base camera: gentle two-shot at kid eye level with Ara kneeling, Pico between them, and the turbine in the background",
+      "composition_role": "opening scene",
+      "reference_goals": [
+        "find camera references for opening scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Soft mentor warmth, sunset rim light, red satchel accent, turbine behind them.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 3 on page 002; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p002_s02",
+      "page": 2,
+      "scene_index": 2,
+      "title": "Engineer Ara Listens - held her hand into the",
+      "story_slice": "held her hand into the air.",
+      "location": "rooftop wind garden work zone near the railing and wind turbine",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "wind_turbine",
+        "wind_meter",
+        "red_satchel"
+      ],
+      "beat": "Ara frames the engineering problem: measure what cannot be seen. Scene slice: held her hand into the air.",
+      "camera": "closer action/detail shot between opener and outcome; base camera: gentle two-shot at kid eye level with Ara kneeling, Pico between them, and the turbine in the background",
+      "composition_role": "action/detail scene",
+      "reference_goals": [
+        "find camera references for action/detail scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Soft mentor warmth, sunset rim light, red satchel accent, turbine behind them.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 3 on page 002; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p002_s03",
+      "page": 2,
+      "scene_index": 3,
+      "title": "Engineer Ara Listens - She said Wind is invisible",
+      "story_slice": "She said, Wind is invisible, but clues are everywhere.",
+      "location": "rooftop wind garden work zone near the railing and wind turbine",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "wind_turbine",
+        "wind_meter"
+      ],
+      "beat": "Ara frames the engineering problem: measure what cannot be seen. Scene slice: She said, Wind is invisible, but clues are everywhere.",
+      "camera": "closing reaction or outcome shot, visibly different from the opener; base camera: gentle two-shot at kid eye level with Ara kneeling, Pico between them, and the turbine in the background",
+      "composition_role": "outcome scene",
+      "reference_goals": [
+        "find camera references for outcome scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Soft mentor warmth, sunset rim light, red satchel accent, turbine behind them.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 3 of 3 on page 002; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p003_s01",
+      "page": 3,
+      "scene_index": 1,
+      "title": "Measure the Invisible - The orange cups went tik",
+      "story_slice": "The orange cups went tik-tik-tik, then spun a faster ring.",
+      "location": "rooftop wind garden safe blue work mat beside the wind meter",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "wind_meter",
+        "star_blueprint",
+        "red_satchel"
+      ],
+      "beat": "Zoya learns to measure wind speed before guessing at a fix. Scene slice: The orange cups went tik-tik-tik, then spun a faster ring.",
+      "camera": "object-focused establishing insert; top-down or macro detail; base camera: overhead object-focused shot of the anemometer, Zoya's notes, Ara's guiding finger, and Pico's glowing eyes",
+      "composition_role": "object insert",
+      "reference_goals": [
+        "find camera references for object insert",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Orange spinning cups, blue mat, white chalk marks, teal glow.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 2 on page 003; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p003_s02",
+      "page": 3,
+      "scene_index": 2,
+      "title": "Measure the Invisible - Zoya counted every turn and",
+      "story_slice": "Zoya counted every turn and wrote what wind can bring.",
+      "location": "rooftop wind garden safe blue work mat beside the wind meter",
+      "characters": [
+        "zoya_kid"
+      ],
+      "objects": [
+        "wind_meter"
+      ],
+      "beat": "Zoya learns to measure wind speed before guessing at a fix. Scene slice: Zoya counted every turn and wrote what wind can bring.",
+      "camera": "character reaction or usage angle tied to the object; base camera: overhead object-focused shot of the anemometer, Zoya's notes, Ara's guiding finger, and Pico's glowing eyes",
+      "composition_role": "object-use reaction",
+      "reference_goals": [
+        "find camera references for object-use reaction",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Orange spinning cups, blue mat, white chalk marks, teal glow.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 2 on page 003; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p004_s01",
+      "page": 4,
+      "scene_index": 1,
+      "title": "Blueprint on the Bench - Down in the workshop gears",
+      "story_slice": "Down in the workshop, gears went click and paper softly snapped.",
+      "location": "engineer maker workshop with window, wooden workbench, tool wall, and blueprint zone",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara"
+      ],
+      "objects": [
+        "star_blueprint",
+        "workbench",
+        "red_satchel"
+      ],
+      "beat": "The problem moves into planning: Zoya and Ara design a stronger turbine brace. Scene slice: Down in the workshop, gears went click and paper softly snapped.",
+      "camera": "object-focused establishing insert; top-down or macro detail; base camera: macro workbench view through the triangle drawn on the blueprint, with the window and tool wall as fixed background anchors",
+      "composition_role": "object insert",
+      "reference_goals": [
+        "find camera references for object insert",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Blueprint blue, warm workbench brown, window daylight, red satchel hanging on right.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 2 on page 004; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p004_s02",
+      "page": 4,
+      "scene_index": 2,
+      "title": "Blueprint on the Bench - Ara drew three lines for",
+      "story_slice": "Ara drew three lines for strength while Zoya traced the map.",
+      "location": "engineer maker workshop with window, wooden workbench, tool wall, and blueprint zone",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara"
+      ],
+      "objects": [
+        "workbench"
+      ],
+      "beat": "The problem moves into planning: Zoya and Ara design a stronger turbine brace. Scene slice: Ara drew three lines for strength while Zoya traced the map.",
+      "camera": "character reaction or usage angle tied to the object; base camera: macro workbench view through the triangle drawn on the blueprint, with the window and tool wall as fixed background anchors",
+      "composition_role": "object-use reaction",
+      "reference_goals": [
+        "find camera references for object-use reaction",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Blueprint blue, warm workbench brown, window daylight, red satchel hanging on right.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 2 on page 004; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p005_s01",
+      "page": 5,
+      "scene_index": 1,
+      "title": "First Spin, Big Wobble - Tap went the bolt click",
+      "story_slice": "Tap went the bolt, click went the",
+      "location": "rooftop wind garden turbine anchor with planters and skyline visible",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "wind_turbine",
+        "wind_meter",
+        "star_blueprint"
+      ],
+      "beat": "The first fix almost works, then fails safely in a funny wobble. Scene slice: Tap went the bolt, click went the",
+      "camera": "comic panel 1 of 3; keep a distinct beat within this sequence; base camera: comic sequence with build, spin, wobble, and surprised reaction; each panel changes distance and angle",
+      "composition_role": "comic panel 1",
+      "reference_goals": [
+        "find camera references for comic panel 1",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Energetic motion lines, orange sound-word energy, stable rooftop safety mood.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 3 on page 005; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p005_s02",
+      "page": 5,
+      "scene_index": 2,
+      "title": "First Spin, Big Wobble - brace zoom went the little",
+      "story_slice": "brace, zoom went the little blade.",
+      "location": "rooftop wind garden turbine anchor with planters and skyline visible",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "wind_turbine",
+        "wind_meter",
+        "star_blueprint"
+      ],
+      "beat": "The first fix almost works, then fails safely in a funny wobble. Scene slice: brace, zoom went the little blade.",
+      "camera": "comic panel 2 of 3; keep a distinct beat within this sequence; base camera: comic sequence with build, spin, wobble, and surprised reaction; each panel changes distance and angle",
+      "composition_role": "comic panel 2",
+      "reference_goals": [
+        "find camera references for comic panel 2",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Energetic motion lines, orange sound-word energy, stable rooftop safety mood.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 3 on page 005; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p005_s03",
+      "page": 5,
+      "scene_index": 3,
+      "title": "First Spin, Big Wobble - Then wobble wobble rattle rattle",
+      "story_slice": "Then wobble-wobble, rattle-rattle, the tower shook and swayed.",
+      "location": "rooftop wind garden turbine anchor with planters and skyline visible",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "wind_turbine",
+        "wind_meter",
+        "star_blueprint"
+      ],
+      "beat": "The first fix almost works, then fails safely in a funny wobble. Scene slice: Then wobble-wobble, rattle-rattle, the tower shook and swayed.",
+      "camera": "comic panel 3 of 3; keep a distinct beat within this sequence; base camera: comic sequence with build, spin, wobble, and surprised reaction; each panel changes distance and angle",
+      "composition_role": "comic panel 3",
+      "reference_goals": [
+        "find camera references for comic panel 3",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Energetic motion lines, orange sound-word energy, stable rooftop safety mood.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 3 of 3 on page 005; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p006_s01",
+      "page": 6,
+      "scene_index": 1,
+      "title": "The Triangle Brace - Ara smiled and tapped the",
+      "story_slice": "Ara smiled and tapped the page",
+      "location": "engineer maker workshop model zone on the floor beside the workbench",
+      "characters": [
+        "engineer_ara"
+      ],
+      "objects": [
+        "workbench"
+      ],
+      "beat": "Ara explains triangular bracing; Zoya rebuilds the turbine support. Scene slice: Ara smiled and tapped the page",
+      "camera": "establishing shot for the page beat; base camera: dramatic close-up looking through the triangular brace with Zoya's focused eye behind it",
+      "composition_role": "opening scene",
+      "reference_goals": [
+        "find camera references for opening scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Golden brace pieces, blue blueprint shadows, crisp highlight on Zoya's eye.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 3 on page 006; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p006_s02",
+      "page": 6,
+      "scene_index": 2,
+      "title": "The Triangle Brace - A triangle holds things tight",
+      "story_slice": "A triangle holds things tight.",
+      "location": "engineer maker workshop model zone on the floor beside the workbench",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "star_blueprint",
+        "wind_turbine",
+        "workbench"
+      ],
+      "beat": "Ara explains triangular bracing; Zoya rebuilds the turbine support. Scene slice: A triangle holds things tight.",
+      "camera": "closer action/detail shot between opener and outcome; base camera: dramatic close-up looking through the triangular brace with Zoya's focused eye behind it",
+      "composition_role": "action/detail scene",
+      "reference_goals": [
+        "find camera references for action/detail scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Golden brace pieces, blue blueprint shadows, crisp highlight on Zoya's eye.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 3 on page 006; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p006_s03",
+      "page": 6,
+      "scene_index": 3,
+      "title": "The Triangle Brace - Zoya built three sturdy sides",
+      "story_slice": "Zoya built three sturdy sides and Pico blinked, that's right!",
+      "location": "engineer maker workshop model zone on the floor beside the workbench",
+      "characters": [
+        "zoya_kid",
+        "pico_bot"
+      ],
+      "objects": [
+        "star_blueprint",
+        "wind_turbine",
+        "workbench"
+      ],
+      "beat": "Ara explains triangular bracing; Zoya rebuilds the turbine support. Scene slice: Zoya built three sturdy sides and Pico blinked, that's right!",
+      "camera": "closing reaction or outcome shot, visibly different from the opener; base camera: dramatic close-up looking through the triangular brace with Zoya's focused eye behind it",
+      "composition_role": "outcome scene",
+      "reference_goals": [
+        "find camera references for outcome scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Golden brace pieces, blue blueprint shadows, crisp highlight on Zoya's eye.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 3 of 3 on page 006; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p007_s01",
+      "page": 7,
+      "scene_index": 1,
+      "title": "The Rooftop Test - Back on the roof the",
+      "story_slice": "Back on the roof, the wind blew hush, then whoosh around the bend.",
+      "location": "rooftop wind garden safe work zone with turbine, wind meter, planters, railing, and city skyline",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "wind_turbine",
+        "wind_meter",
+        "roof_planters"
+      ],
+      "beat": "The rebuilt turbine is tested in the real environment. Scene slice: Back on the roof, the wind blew hush, then whoosh around the bend.",
+      "camera": "establishing shot for the page beat; base camera: wide diagonal rooftop view with S-curve wind path from skyline to turbine to Zoya's face",
+      "composition_role": "opening scene",
+      "reference_goals": [
+        "find camera references for opening scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Blue-white wind ribbons, green planters, yellow battery starting to glow.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 2 on page 007; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p007_s02",
+      "page": 7,
+      "scene_index": 2,
+      "title": "The Rooftop Test - Zoya turned the turbine gently",
+      "story_slice": "Zoya turned the turbine gently and watched the cups ascend.",
+      "location": "rooftop wind garden safe work zone with turbine, wind meter, planters, railing, and city skyline",
+      "characters": [
+        "zoya_kid"
+      ],
+      "objects": [
+        "wind_turbine"
+      ],
+      "beat": "The rebuilt turbine is tested in the real environment. Scene slice: Zoya turned the turbine gently and watched the cups ascend.",
+      "camera": "closing reaction or outcome shot, visibly different from the opener; base camera: wide diagonal rooftop view with S-curve wind path from skyline to turbine to Zoya's face",
+      "composition_role": "outcome scene",
+      "reference_goals": [
+        "find camera references for outcome scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Blue-white wind ribbons, green planters, yellow battery starting to glow.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 2 on page 007; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p008_s01",
+      "page": 8,
+      "scene_index": 1,
+      "title": "Stormy Almost - A gust came WHOOSH across",
+      "story_slice": "A gust came WHOOSH across the rail; the little tower bent.",
+      "location": "rooftop wind garden during a gust, same railing and planter positions visible",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "wind_turbine",
+        "wind_meter",
+        "red_satchel",
+        "solar_battery"
+      ],
+      "beat": "A stronger gust creates a tense but safe final test. Scene slice: A gust came WHOOSH across the rail; the little tower bent.",
+      "camera": "comic panel 1 of 3; keep a distinct beat within this sequence; base camera: cinematic Dutch angle storm-gust sequence with foreground satchel, tilted turbine, and Ara steadying the safety zone",
+      "composition_role": "comic panel 1",
+      "reference_goals": [
+        "find camera references for comic panel 1",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Cool gust shadows, warm safety light, red satchel foreground anchor.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 3 on page 008; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p008_s02",
+      "page": 8,
+      "scene_index": 2,
+      "title": "Stormy Almost - Zoya breathed checked every brace",
+      "story_slice": "Zoya breathed, checked every brace",
+      "location": "rooftop wind garden during a gust, same railing and planter positions visible",
+      "characters": [
+        "zoya_kid"
+      ],
+      "objects": [
+        "wind_turbine",
+        "wind_meter",
+        "red_satchel",
+        "solar_battery"
+      ],
+      "beat": "A stronger gust creates a tense but safe final test. Scene slice: Zoya breathed, checked every brace",
+      "camera": "comic panel 2 of 3; keep a distinct beat within this sequence; base camera: cinematic Dutch angle storm-gust sequence with foreground satchel, tilted turbine, and Ara steadying the safety zone",
+      "composition_role": "comic panel 2",
+      "reference_goals": [
+        "find camera references for comic panel 2",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Cool gust shadows, warm safety light, red satchel foreground anchor.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 3 on page 008; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p008_s03",
+      "page": 8,
+      "scene_index": 3,
+      "title": "Stormy Almost - fixed the loose one sent",
+      "story_slice": "fixed the loose one sent.",
+      "location": "rooftop wind garden during a gust, same railing and planter positions visible",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "wind_turbine",
+        "wind_meter",
+        "red_satchel",
+        "solar_battery"
+      ],
+      "beat": "A stronger gust creates a tense but safe final test. Scene slice: fixed the loose one sent.",
+      "camera": "comic panel 3 of 3; keep a distinct beat within this sequence; base camera: cinematic Dutch angle storm-gust sequence with foreground satchel, tilted turbine, and Ara steadying the safety zone",
+      "composition_role": "comic panel 3",
+      "reference_goals": [
+        "find camera references for comic panel 3",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Cool gust shadows, warm safety light, red satchel foreground anchor.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 3 of 3 on page 008; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p009_s01",
+      "page": 9,
+      "scene_index": 1,
+      "title": "Lights in the Leaves - The turbine spun with a",
+      "story_slice": "The turbine spun with a hum-hum-hum; the garden lights grew bright.",
+      "location": "rooftop wind garden at golden dusk with glowing planters and spinning turbine",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "wind_turbine",
+        "solar_battery"
+      ],
+      "beat": "The invention works and powers the little garden lights. Scene slice: The turbine spun with a hum-hum-hum; the garden lights grew bright.",
+      "camera": "establishing shot for the page beat; base camera: hero wide shot from low angle, turbine silhouetted against sky, Zoya and Ara lit by glowing leaves",
+      "composition_role": "opening scene",
+      "reference_goals": [
+        "find camera references for opening scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Glowing yellow-green leaves, sunset orange sky, teal Pico eyes, triumphant warmth.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 2 on page 009; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p009_s02",
+      "page": 9,
+      "scene_index": 2,
+      "title": "Lights in the Leaves - Leaves shone green and Zoya",
+      "story_slice": "Leaves shone green and Zoya laughed beneath the city light.",
+      "location": "rooftop wind garden at golden dusk with glowing planters and spinning turbine",
+      "characters": [
+        "zoya_kid"
+      ],
+      "objects": [
+        "wind_turbine",
+        "roof_planters",
+        "solar_battery",
+        "star_blueprint"
+      ],
+      "beat": "The invention works and powers the little garden lights. Scene slice: Leaves shone green and Zoya laughed beneath the city light.",
+      "camera": "closing reaction or outcome shot, visibly different from the opener; base camera: hero wide shot from low angle, turbine silhouetted against sky, Zoya and Ara lit by glowing leaves",
+      "composition_role": "outcome scene",
+      "reference_goals": [
+        "find camera references for outcome scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Glowing yellow-green leaves, sunset orange sky, teal Pico eyes, triumphant warmth.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 2 on page 009; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p010_s01",
+      "page": 10,
+      "scene_index": 1,
+      "title": "Zoya's Next Question - Ara packed the red satchel",
+      "story_slice": "Ara packed the red satchel, but Zoya held the plan.",
+      "location": "rooftop wind garden quiet ending, turbine spinning, work mat tidy, skyline soft behind railing",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara"
+      ],
+      "objects": [
+        "red_satchel"
+      ],
+      "beat": "The mentor passes confidence to the kid; the next engineering question begins. Scene slice: Ara packed the red satchel, but Zoya held the plan.",
+      "camera": "establishing shot for the page beat; base camera: quiet over-the-shoulder ending from Ara's side, Zoya holding the blueprint toward the glowing turbine",
+      "composition_role": "opening scene",
+      "reference_goals": [
+        "find camera references for opening scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Soft blue dusk, warm garden glow, red satchel, hopeful teal highlights.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 1 of 4 on page 010; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p010_s02",
+      "page": 10,
+      "scene_index": 2,
+      "title": "Zoya's Next Question - Could I build a rain",
+      "story_slice": "Could I build a rain catcher next?",
+      "location": "rooftop wind garden quiet ending, turbine spinning, work mat tidy, skyline soft behind railing",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "red_satchel",
+        "star_blueprint",
+        "wind_turbine",
+        "roof_planters"
+      ],
+      "beat": "The mentor passes confidence to the kid; the next engineering question begins. Scene slice: Could I build a rain catcher next?",
+      "camera": "closer action/detail shot between opener and outcome; base camera: quiet over-the-shoulder ending from Ara's side, Zoya holding the blueprint toward the glowing turbine",
+      "composition_role": "action/detail scene",
+      "reference_goals": [
+        "find camera references for action/detail scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Soft blue dusk, warm garden glow, red satchel, hopeful teal highlights.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 2 of 4 on page 010; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p010_s03",
+      "page": 10,
+      "scene_index": 3,
+      "title": "Zoya's Next Question - Ara grinned",
+      "story_slice": "Ara grinned",
+      "location": "rooftop wind garden quiet ending, turbine spinning, work mat tidy, skyline soft behind railing",
+      "characters": [
+        "engineer_ara"
+      ],
+      "objects": [
+        "red_satchel",
+        "star_blueprint",
+        "wind_turbine",
+        "roof_planters"
+      ],
+      "beat": "The mentor passes confidence to the kid; the next engineering question begins. Scene slice: Ara grinned",
+      "camera": "closer action/detail shot between opener and outcome; base camera: quiet over-the-shoulder ending from Ara's side, Zoya holding the blueprint toward the glowing turbine",
+      "composition_role": "action/detail scene",
+      "reference_goals": [
+        "find camera references for action/detail scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Soft blue dusk, warm garden glow, red satchel, hopeful teal highlights.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 3 of 4 on page 010; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    },
+    {
+      "scene_id": "p010_s04",
+      "page": 10,
+      "scene_index": 4,
+      "title": "Zoya's Next Question - Of course you can",
+      "story_slice": "Of course you can.",
+      "location": "rooftop wind garden quiet ending, turbine spinning, work mat tidy, skyline soft behind railing",
+      "characters": [
+        "zoya_kid",
+        "engineer_ara",
+        "pico_bot"
+      ],
+      "objects": [
+        "red_satchel",
+        "star_blueprint",
+        "wind_turbine",
+        "roof_planters"
+      ],
+      "beat": "The mentor passes confidence to the kid; the next engineering question begins. Scene slice: Of course you can.",
+      "camera": "closing reaction or outcome shot, visibly different from the opener; base camera: quiet over-the-shoulder ending from Ara's side, Zoya holding the blueprint toward the glowing turbine",
+      "composition_role": "outcome scene",
+      "reference_goals": [
+        "find camera references for outcome scene",
+        "find staging references without copying composition",
+        "keep this scene visually distinct from adjacent scenes"
+      ],
+      "stencil_requirements": [
+        "show only this scene's required beat",
+        "keep character and recurring object silhouettes consistent",
+        "make the focal action readable before color"
+      ],
+      "color_requirements": [
+        "Soft blue dusk, warm garden glow, red satchel, hopeful teal highlights.",
+        "preserve approved stencil composition",
+        "keep palette consistent with the book while avoiding repetition"
+      ],
+      "uniqueness_requirement": "Scene 4 of 4 on page 010; do not reuse the same camera distance or focal hierarchy as the neighboring scene."
+    }
+  ]
+}
