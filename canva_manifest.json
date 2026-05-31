@@ -1,0 +1,48 @@
+{
+  "book_title": "Maya and the Tiny Bridge",
+  "layout": {
+    "spread_width_px": 3400,
+    "spread_height_px": 2200,
+    "spread_count": 3,
+    "source_story_pages": 5
+  },
+  "pdf": "projects/maya_bridge_demo/output/canva_package/maya_and_the_tiny_bridge_canva_import_spreads.pdf",
+  "spreads": [
+    {
+      "spread": 1,
+      "mode": "paired_single_pages",
+      "png": "projects/maya_bridge_demo/output/canva_package/spread_pngs/spread_01.png",
+      "left_page": 1,
+      "left_title": "The Rug River",
+      "left_story_text": "Nova beeped beside the blue rug river, beep-beep, small and slow. Maya tapped her pencil twice: I know a bridge can help you go.",
+      "right_page": 2,
+      "right_title": "Measure First",
+      "right_story_text": "Engineer Alex smiled and said, First measure, then we play. Maya marked the blueprint lines and planned the bridge the clever way.",
+      "layout_note": "Problem setup and planning table."
+    },
+    {
+      "spread": 2,
+      "mode": "comic_and_macro_pair",
+      "png": "projects/maya_bridge_demo/output/canva_package/spread_pngs/spread_02.png",
+      "left_page": 3,
+      "left_title": "The Wobble Test",
+      "left_story_text": "Click went the blocks, then clack, then flop! The bridge leaned left and right. Maya grinned and tried again: Almost means I'm learning right.",
+      "right_page": 4,
+      "right_title": "The Triangle Trick",
+      "right_story_text": "Alex drew three sturdy sides and Maya's eyes grew wide. Triangles catch the wobbles fast and tuck the strength inside.",
+      "layout_note": "Funny wobble test and triangle principle."
+    },
+    {
+      "spread": 3,
+      "mode": "single_page_finale_with_review_panel",
+      "png": "projects/maya_bridge_demo/output/canva_package/spread_pngs/spread_03.png",
+      "left_page": 5,
+      "left_title": "Across!",
+      "left_story_text": "Nova marched across the bridge, beep-boop, bright and bold. Maya held her blueprint high: I built it from my plan!",
+      "right_page": null,
+      "right_title": null,
+      "right_story_text": null,
+      "layout_note": "Final bridge success plus Canva review space."
+    }
+  ]
+}
