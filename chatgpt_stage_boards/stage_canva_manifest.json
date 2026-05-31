@@ -1,0 +1,34 @@
+[
+  {
+    "stage": "01_character_object_sheet",
+    "title": "Maya Bridge 01 - Character and Object Sheet",
+    "description": "Character consistency sheet: Maya, Engineer Alex, Nova, workbench, bridge blueprint, logic kit, brass caliper.",
+    "source_image": "book_pipeline\\projects\\maya_bridge_demo\\output\\chatgpt_generated_stage_boards\\01_character_object_sheet.png",
+    "canva_png": "book_pipeline\\projects\\maya_bridge_demo\\output\\canva_stage_files\\01_character_object_sheet_canva.png",
+    "canva_pdf": "book_pipeline\\projects\\maya_bridge_demo\\output\\canva_stage_files\\01_character_object_sheet_canva.pdf"
+  },
+  {
+    "stage": "02_reference_camera_board",
+    "title": "Maya Bridge 02 - Reference Camera Board",
+    "description": "Camera, perspective, page layout, mood, color, and online-style visual reference planning board.",
+    "source_image": "book_pipeline\\projects\\maya_bridge_demo\\output\\chatgpt_generated_stage_boards\\02_reference_camera_board.png",
+    "canva_png": "book_pipeline\\projects\\maya_bridge_demo\\output\\canva_stage_files\\02_reference_camera_board_canva.png",
+    "canva_pdf": "book_pipeline\\projects\\maya_bridge_demo\\output\\canva_stage_files\\02_reference_camera_board_canva.pdf"
+  },
+  {
+    "stage": "03_stencil_storyboard",
+    "title": "Maya Bridge 03 - Stencil Storyboard",
+    "description": "Black-and-white staging/stencil pass with the correct recurring characters and five story beats.",
+    "source_image": "book_pipeline\\projects\\maya_bridge_demo\\output\\chatgpt_generated_stage_boards\\03_stencil_storyboard.png",
+    "canva_png": "book_pipeline\\projects\\maya_bridge_demo\\output\\canva_stage_files\\03_stencil_storyboard_canva.png",
+    "canva_pdf": "book_pipeline\\projects\\maya_bridge_demo\\output\\canva_stage_files\\03_stencil_storyboard_canva.pdf"
+  },
+  {
+    "stage": "04_final_color_board",
+    "title": "Maya Bridge 04 - Final Color Output",
+    "description": "Colored final storybook illustration board with five finished panels for the mini prototype.",
+    "source_image": "book_pipeline\\projects\\maya_bridge_demo\\output\\chatgpt_generated_stage_boards\\04_final_color_board.png",
+    "canva_png": "book_pipeline\\projects\\maya_bridge_demo\\output\\canva_stage_files\\04_final_color_board_canva.png",
+    "canva_pdf": "book_pipeline\\projects\\maya_bridge_demo\\output\\canva_stage_files\\04_final_color_board_canva.pdf"
+  }
+]
