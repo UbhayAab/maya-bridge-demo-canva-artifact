@@ -15,6 +15,8 @@ Public artifact repository used so Canva can import prototype PDFs by HTTPS URL.
 
 These files are generated from the story text and scene-plan metadata. The scene count is not hardcoded; the current demo resolves to 15 scenes across 5 story pages.
 
+The current engine also emits spatial-model contracts, recurring-room camera references, and decal-lock manifests in the main repository. Those files are used before final art generation to keep repeated workshops, vehicles, signs, menu prices, windows, tables, and other fixed elements consistent.
+
 ## Legacy Prototype
 
 The root PDF and `chatgpt_stage_boards/` folder are earlier proof artifacts and are kept only for history.
